@@ -1,6 +1,4 @@
-<p align="center">
- <img src="https://user-images.githubusercontent.com/48858582/131226160-11206ab8-0a30-4da0-a888-865341001e36.png" width="378" height="378" />  
-</p>
+## Bootcamp Mentor: [Aagam Jain](https://aagamjain.vercel.app/)
 
 ### Day 1 - 23rd August 2021 | 📹 [Lecture Link](https://cutt.ly/gitinstallationday1)  
 
