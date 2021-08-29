@@ -33,7 +33,7 @@
   * Project Building (Simple Interest Calculator)  
   📝 ***Assignment: Design a Compound interest Calculator.***   
 
-### Day 6 - 27th August 2021 | 📹 [Lecture Link](https://cutt.ly/webdev101day6rec) 
+### Day 6 - 27th August 2021 | 📹 [Lecture Link](https://cutt.ly/wevdev101day6rec) 
 
   * Introduction to JavaScript
   * Introduction to DOM elements
